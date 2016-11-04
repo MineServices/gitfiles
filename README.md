@@ -1,2 +1,2 @@
 # gitfiles
-My standard .git... files
+standard .git... files
