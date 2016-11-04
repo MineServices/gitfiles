@@ -1,2 +1,2 @@
-# gitignore
-My standard .gitignore files
+# gitfiles
+My standard .git... files
