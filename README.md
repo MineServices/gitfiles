@@ -1,2 +1,0 @@
-# gitfiles
-standard .git files
